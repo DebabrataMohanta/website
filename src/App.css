@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+BrowserRouter{
+  height: 100vh;
+  background-color: rgb(0,150,255);
+}
